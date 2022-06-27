@@ -1,0 +1,74 @@
+var resume={
+          
+                                            "RESUME"
+
+         "ARAVINTH.K"                                 "50A/24 Ramasamy pettai st,"
+                                                      "M.chavadi,"
+                                                      "Thanjavur-613001"
+                                                      "Mobile no;8667222025"
+                                                      "Email;Aravinthjeeva7@gmail com"
+          "OBJECTIVE"
+
+                   "Looking for a challenging career which best of my professional ability in terms of technical and analytical skills, and helps
+          me in boardening and enchanging my current skill and knowledge."
+
+          "EDUCATIONAL QUALIFICATIONS"
+
+          "B.E' "ANNA UNIVERSITY", "CHENNAI" (2013-2017)"                    "6.51%"
+          "Dept" "of"  "Mechanical Engineering".
+          "(CGPA TILL 7TH SEM)"
+
+          "Vandayar Engineering college", "Thanjavur".
+          'HSC Tamil Nadu State Board (mar 2013)"                           "71%'
+          "ST.Peter’s Higher secondary school, Thanjavur-613009"
+
+          "SSLC State Board Examination, Tamil Nadu (mar 2010)"             "74.6%" 
+          "Kalyana Sundaram Higher Secondary school, Thanjavur-613009'
+
+          "TECHNICAL SKILLS" 
+          •	"Certificate in course of Diploma in computer Application" 
+          •	"Certificate in course of Junior typist"
+          •	"Certificate in course of Appraisal & its Techniques'
+          •	"Studying shorthand in English"
+          •	"Studying Full stack development course in IT Field"
+          
+          "AREA OF INTEREST"
+          •	"Maintanance and" 
+          •	"Quality control"
+          
+          "TRANINGS"
+          •	"Undergone Industrial Visit in Southern Railways"
+          
+          "Project Details"
+          "DESIGN AND THERMAL ANALYSIS OF TURBOCHARGER" 
+          "USING FINITE ELEMENT ANALYSIS METHOD"
+
+          "Experience"
+          •	"2 years experience in Rane Madras"
+          
+          "ABSTRACT"
+          •	"The project aims the thermal analysis of turbine blades in turbocharger. The blade is the rotating part which converts the kinetic
+           energy into mechanical energy". "Turbine blade is the critical part of the turbocharger which has shown increasing growth of failure
+            damaging disk. It deals with thermal analysis of turbine blades which is made up of TITANIUM ALLOY over INCONEL ALLOY".
+          •	"The project mainly deals with two objectives first design of turbine blades with PRO-E and then find out the thermal stresses in 
+          turbine blades of turbo charger using ANSYS."
+
+          "EXTRA CURRICULAR ACTIVITES"
+          •	"Junior in typewriting English" 
+          •	"I am finished jewel appraiser in co-operative union" 
+          •	"Intrested in Playing chess and carom"
+
+          "Personal Details" 
+
+          "Father name"              ;             "Mr. V.Kannan"
+          "Mother name"              ;             "Mrs. K.Jeeva"
+          "Date of Birth"            ;             "03.07.1995"
+          "Languages known"          ;             "English," "Tamil."
+          "Hobbies"                  ;             "Hearing songs, playing cricket."
+          
+           "I here by declare that all the above said facts are true to my knowledge. And give my best."
+          
+              
+          
+          
+}

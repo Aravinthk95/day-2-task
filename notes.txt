@@ -1,0 +1,52 @@
+DIFFERENCE BETWEEN WINDOW, DOCUMENT AND SCREEN IN JAVASCRIPT
+ 
+ Window object and document object often look alike and confusing??
+
+ A clear understanding of Browser object Model (BOM) and Document object model (DOM) resolves the problem.
+
+ BROWSER OBJECT MODEL (BOM):
+
+             The browser object model contains objects that represent the current browser window or tab.
+The top most object in the BOM is the WINDOW object representing the window or tab or an iframe somedtimes.
+Window object has properties like browser history, location and the device's screen etc.  In case of multi 
+tab browser, a window object represents a single tab, but some of its properties like innerheight, innerwidth 
+and methods like resize TO() will affect the whole browser window.
+
+DOCUMENT OBJECT MODEL:
+ 
+            When a web page is loaded, the browser creates a Document object model of the page.  The 
+document object represents the whole html document as a tree of objects (HTML, HEAD, BODY,and other 
+HTML tags).  It is the root element that represents the html docutment.
+
+WINDOWS VS DOCUMENT: 
+
+WINDOW OBJECT: It is the top most object and outermost element of the object.
+
+DOCUMENT OBJECT:
+
+            Each HTML document that gets loaded into a window becomes a document object.  The document contains
+the contents of the page.  Using document object, Javascript can modify, add and delete the HTML elements,
+attribtes CSS styles in the page.
+
+The window object represents a window/tab containing a DOM document object is property of window object     
+that points to the DOM document loaded in that window.
+
+You can access a document object either using window.document property or using document object directly as 
+window is global object.  In the below example title is the property of document object.
+
+The window object represents a wondow/tab containing a DOM document where as document object is property 
+of window object that points to the DOM document loaded in that window.
+
+You can access a document object either using wondow.document property or using document object directly as 
+window is global object.  In the below example title is the property of document object.
+
+The other major difference is that both window object and document object have properties and methods.  
+Few methods names are same in both objects but with different behavior.   In the below example 
+window.open() a new tab or window and document.open() creates a blank documnt within the window.
+
+SCREEN:
+
+             Screen is the window property that holds information of browser screen. It refers to 
+screen object associated with that window object used to display screen widht, height, colourdepth,pixeldepth etc.
+
+Similar to document screen can be accessed either by window.screen or screen object directly.screen object doesn't have any methods as in window and document objects.
